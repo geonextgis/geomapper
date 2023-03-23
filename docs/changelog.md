@@ -1,11 +1,9 @@
 # Changelog
 
-## v0.0.1 - Date
+## v0.0.2 - Mar 23, 2023
 
-**Improvement**:
+- Created documentation website
+## v0.0.1 - Mar 22, 2023
 
--   TBD
+- Initial release
 
-**New Features**:
-
--   TBD
